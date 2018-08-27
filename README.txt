@@ -1,3 +1,9 @@
+UPDATE:
+The 'Main Script' is now the main script I use in my editing. It has all of the features of the other scripts built
+into it, making it a much more advanced and consise script. There ARE known bugs and it is still being tested.
+In addition to this, the MIDI folder has also been added. The scripts found in there are still in the beta stages and are
+SUPER BUGGY, so please use at your own discretion. If you encounter any issues, please let me know and I will attempt to fix them.
+
 Most of the code here is code I have written by myself, designed for my setup.
 If you choose to use some of this code, you will have to customise it to work with what you have.
 
